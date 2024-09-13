@@ -1,0 +1,5 @@
+[run]
+build = "npm run build"
+
+[brian-app]
+project_id = "..."
