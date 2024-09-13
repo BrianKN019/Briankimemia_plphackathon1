@@ -4,7 +4,7 @@
 Hi! I'm Brian Kimemia Njeri, a passionate Information Science professional and AWS Cloud Practitioner. I specialize in transforming digital landscapes with innovative solutions, focusing on cloud computing, educational technology, and IT support.
 
 ## 🎓 Educational Background
-I hold a BSc. in Information Science from the Technical University of Kenya. [Download My CV](/Brian_Kimemia_Njeri_CV.pdf)
+I hold a BSc. in Information Science from the Technical University of Kenya. [Download My CV](https://briankimemia-plphackathon1.vercel.app/Brian_Kimemia_Njeri_CV.pdf)
 
 ## 💡 Interests
 - **Cloud Computing**: Exploring AWS services and cloud-native solutions.
@@ -19,7 +19,7 @@ I hold a BSc. in Information Science from the Technical University of Kenya. [Do
 - [Digital Literacy Programme Implementation](https://github.com/BrianKN019/digital-literacy-programme): Spearheaded the integration of digital literacy devices in classrooms.
 
 ## 📬 Contact Me
-Feel free to reach out! [Contact Form](https://vibrant-portfolio-illusion.gptengineer.app/contact)
+Feel free to reach out! [Contact Form](https://briankimemia-plphackathon1.vercel.app/contact)
 
 ## 🚀 Technologies
 - AWS Services (S3, IAM, QuickSight)
