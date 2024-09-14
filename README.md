@@ -2,7 +2,7 @@
 
 
 ## 📝 About Me
-Greetings, digital explorer! I'm Brian Kimemia Njeri, a passionate Information Science professional and AWS Cloud Practitioner. My mission? To transform digital landscapes with innovative solutions, focusing on cloud computing, educational technology, and IT support. Let's embark on this tech journey together!
+Greetings, digital explorer! I'm Brian Kimemia Njeri, a passionate Information Science professional and AWS Cloud Practitioner. My mission is To transform digital landscapes with innovative solutions, focusing on cloud computing, educational technology, and IT support. Let's embark on this tech journey together!
 
 ## 🎓 Educational Background
 - BSc. Information Science, Technical University of Kenya
