@@ -6,7 +6,7 @@ Greetings, digital explorer! I'm Brian Kimemia Njeri, a passionate Information S
 
 ## 🎓 Educational Background
 - BSc. Information Science, Technical University of Kenya
-- [Download My CV](/public/Brian_Kimemia_Njeri_CV.pdf) and discover my full journey!
+- [Download My CV](https://briankimemia-plphackathon1.vercel.app/Brian_Kimemia_Njeri_CV.pdf) and discover my full journey!
 
 ## 💡 Interests
 - **Cloud Computing**: Navigating the AWS ecosystem and crafting cloud-native solutions
