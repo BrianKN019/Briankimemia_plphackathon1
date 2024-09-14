@@ -1,4 +1,4 @@
-# [Brian Kimemia Njeri's Portfolio 🚀](https://briankn-plphackathon1.vercel.app/)
+# [Brian Kimemia Njeri's Portfolio 🚀](https://briankimemia-plphackathon1.vercel.app/)
 
 
 ## 📝 About Me
