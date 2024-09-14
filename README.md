@@ -91,7 +91,7 @@ Want to explore this portfolio locally? Follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/BrianKN019/your-repo-name.git
+   git clone https://github.com/BrianKN019/Briankimemia_plphackathon1.git
    cd your-repo-name
    ```
 
