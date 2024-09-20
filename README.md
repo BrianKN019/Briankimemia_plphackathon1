@@ -25,7 +25,7 @@ Dive into my world of innovation:
    - [GitHub](https://github.com/BrianKN019)
    - Crafted a secure and efficient static website hosting solution using AWS S3
 
-3. **Fortress in the Cloud: AWS IAM Security** 🔐 
+3. **Fortress in the Cloud: AWS IAM Security** 🔐
    - [GitHub](https://github.com/BrianKN019)
    - Engineered robust cloud security through meticulous IAM configuration
 
