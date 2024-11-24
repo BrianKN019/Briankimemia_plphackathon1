@@ -1,4 +1,4 @@
-# [Brian Kimemia Njeri's Portfolio 🚀] (https://briankimemia-plphackathon1.vercel.app/)
+# [Brian Kimemia Njeri's Portfolio 🚀] (https://briankimemia-plphackathon1.vercel.app/) 
 
 
 ## 📝 About Me
@@ -30,7 +30,7 @@ Dive into my world of innovation:
    - Engineered robust cloud security through meticulous IAM configuration
 
 4. **Digital Literacy Revolution** 📚
-   - [GitHub](https://github.com/BrianKN019)
+   - [GitHub](https://github.com/BrianKN019) 
    - Spearheaded the integration of cutting-edge digital literacy devices in classrooms
 
 5. **AWS Lambda Serverless API** ⚡
