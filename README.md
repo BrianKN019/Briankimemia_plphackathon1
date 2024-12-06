@@ -39,7 +39,7 @@ Dive into my world of innovation:
 
 6. **Machine Learning Model Deployment** 🧠
    - [GitHub](https://github.com/BrianKN019)
-   - Implemented and deployed a machine learning model using AWS SageMaker
+   - Implemented and deployed a machine learning model using AWS SageMaker 
 
 Each project is a testament to my passion for leveraging technology to solve real-world challenges. Explore them to see how I turn ideas into impactful solutions!
 
